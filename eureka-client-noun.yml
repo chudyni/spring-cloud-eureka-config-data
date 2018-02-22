@@ -1,6 +1,8 @@
+spring:
+  profiles: normal
 words: "boat,book,vote,seat,backpack,partition,groundhog"
 
 ---
 spring:
-  profiles: cold-noun
+  profiles: cold
 words: icicle,refrigerator,blizzard,snowball
